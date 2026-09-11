@@ -15,4 +15,6 @@ Set up and configure a Kali Linux virtual machine using VirtualBox. Configure th
 - Network configuration: NAT
 
 # Lab setup
-## Step1- Install 7-Zip
+## Step1 - Install 7-Zip
+7-Zip is installed to download the kali linux archive  ([https://www.7-zip.org/](https://www.7-zip.org/))
+
