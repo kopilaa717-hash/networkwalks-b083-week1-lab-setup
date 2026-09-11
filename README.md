@@ -36,7 +36,7 @@ download the kali linux ([https://www.kali.org/get-kali/](https://www.kali.org/g
 kali Linux was configured to use NAT networking. After configuration the Ip settings were checked to verify network connectivity and troubleshoot connectivity issues.
 <img width="767" height="586" alt="Capture" src="https://github.com/user-attachments/assets/4ea36496-909f-427b-b9be-fe5e328c783a" />
 
-#Step 6- Connectivity issues
+# Step 6- Connectivity issues
 - check if the network settings are correct
 - check if the NAT Network is created properly
 - check that no other Vm on the same NAT Network is using 10.0.0.2
