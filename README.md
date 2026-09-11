@@ -32,7 +32,7 @@ configure network settings on vitualbox(NAT Network: 10.0.0.0/24)
 # Step 4 - Download kali linux
 download the kali linux ([https://www.kali.org/get-kali/](https://www.kali.org/get-kali/))
 
-#Step 5 - set up the Ip configuration of kali linux
+# Step 5 - set up the Ip configuration of kali linux
 kali Linux was configured to use NAT networking. After configuration the Ip settings were checked to verify network connectivity and troubleshoot connectivity issues.
 <img width="767" height="586" alt="Capture" src="https://github.com/user-attachments/assets/4ea36496-909f-427b-b9be-fe5e328c783a" />
 
