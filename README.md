@@ -1,1 +1,1 @@
-# networkwalks-b083-week1-lab-setup
+Kali linux lab setup
