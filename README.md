@@ -46,7 +46,7 @@ kali Linux was configured to use NAT networking. After configuration the Ip sett
 - sudo nmcli connection up "Wired connection 1"
 - Restart your virtual machines
 
-  #Challanges and Troubleshooting
+  # Challanges and Troubleshooting
  - During the lab setup, I encountered kali linux is not configuring  on virtual box then I open  C:\Users\Dell\.VirtualBox\VirtualBox.xml in Notepad and Check the <MachineRegistry> section and delete the <MachineEntry> line.
  - I encountered a network connecivity issue which I succesfully established the network connectivity by following the above commands.
 
