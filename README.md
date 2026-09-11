@@ -36,8 +36,19 @@ download the kali linux ([https://www.kali.org/get-kali/](https://www.kali.org/g
 kali Linux was configured to use NAT networking. After configuration the Ip settings were checked to verify network connectivity and troubleshoot connectivity issues.
 <img width="767" height="586" alt="Capture" src="https://github.com/user-attachments/assets/4ea36496-909f-427b-b9be-fe5e328c783a" />
 
-#Step 6- Connection issues
-- 
+#Step 6- Connectivity issues
+- check if the network settings are correct
+- check if the NAT Network is created properly
+- check that no other Vm on the same NAT Network is using 10.0.0.2
+- "Run below commands and restart the kali linux"
+- nmcli connection show
+- sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+- sudo nmcli connection up "Wired connection 1"
+- Restart your virtual machines
+
+  #Challanges and Troubleshooting
+ - During the lab setup, I encountered kali linux is not configuring  on virtual box then I open  C:\Users\Dell\.VirtualBox\VirtualBox.xml in Notepad and Check the <MachineRegistry> section and delete the <MachineEntry> line.
+ - I encountered a network connecivity issue which I succesfully established the network connectivity by following the above commands.
 
 
 
