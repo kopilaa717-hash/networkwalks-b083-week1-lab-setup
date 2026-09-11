@@ -1,1 +1,9 @@
-Kali linux lab setup
+# Kali Linux Cybersecurity Lab Setup
+
+## Lab Overview
+
+This project documents the setup of a cybersecurity lab environment using Kali Linux and VirtualBox. The lab environment will be used for hands-on cybersecurity practice, including vulnerability assessment, penetration testing, incident response, digital forensics, and risk assessment.
+
+## Objectives
+
+Set up and configure a Kali Linux virtual machine using VirtualBox. Configure the virtual machine's hardware and network settings. Establish and verify network connectivity within the lab environment. When configuring NAT setup, change the name, configure IPv4 address, enable DHCP. Setup Linux on VirtualBox and configure and troubleshoot IP connectivity issues.
