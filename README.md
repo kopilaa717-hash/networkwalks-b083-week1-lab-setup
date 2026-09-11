@@ -21,4 +21,6 @@ Set up and configure a Kali Linux virtual machine using VirtualBox. Configure th
 # Step 2 - Install VirtualBox
 Download VirtualBox on your laptop. VirtualBox is installed to make the virtual machines.
 [https://www.virtualbox.org/](https://www.virtualbox.org/)
+<img width="1920" height="1080" alt="Screenshot 2026-09-10 142139" src="https://github.com/user-attachments/assets/667316c7-b422-4187-9d90-bb2528ac1517" />
+
 
