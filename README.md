@@ -7,3 +7,9 @@ This project documents the setup of a cybersecurity lab environment using Kali L
 ## Objectives
 
 Set up and configure a Kali Linux virtual machine using VirtualBox. Configure the virtual machine's hardware and network settings. Establish and verify network connectivity within the lab environment. When configuring NAT setup, change the name, configure IPv4 address, enable DHCP. Setup Linux on VirtualBox and configure and troubleshoot IP connectivity issues.
+
+##lab Environment 
+-Host OS: windows 10 Home 
+-hypervisor: VirtualBox
+-Guest OS: Kali Linux 
+-Network configuration: NAT
